@@ -883,6 +883,8 @@ class _PainelPassageiroState extends State<PainelPassageiro> {
                             child: CustomInputText(
                               controller: _destinoController,
                               hintText: 'Digite o destino',
+                              cursorColor: AppColors.primaryColor,
+                              textColor: AppColors.primaryColor,
                               keyboardType: TextInputType.text,
                               preffixIcon: const Icon(Icons.car_crash),
                             ),
