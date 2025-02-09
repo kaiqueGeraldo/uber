@@ -16,11 +16,12 @@ Este projeto é um aplicativo inspirado na Uber, desenvolvido para conectar moto
    - [Telas de Viagem](#-telas-de-viagem)
    - [Ver Detalhes Corrida](#-ver-detalhes-corrida)
 5. [Estrutura do Projeto](#-estrutura-do-projeto)
-6. [Como Rodar o Projeto](#-como-rodar-o-projeto)
-7. [Faça uma Contribuição](#-contribuição)
-8. [Licença](#-licença)
-9. [Autores](#-autores)
-10. [Links Úteis](#-links-úteis)
+6. [Instalar Projeto](#-instalar-projeto)
+7. [Como Rodar o Projeto](#-como-rodar-o-projeto)
+8. [Faça uma Contribuição](#-contribuição)
+9. [Licença](#-licença)
+10. [Autores](#-autores)
+11. [Links Úteis](#-links-úteis)
 
 ---
 
@@ -142,7 +143,13 @@ Este aplicativo replica funcionalidades essenciais da Uber, proporcionando uma e
 
 ```
 
-# 🚀 Como Rodar o Projeto
+## 📲 Instalar Projeto
+
+👉 [Baixe o apk aqui - Seguro e confiável (drive)](https://drive.google.com/file/d/1BPXq5aRW-oHsk9xUx-4rgFZYHBwogzoY/view?usp=drive_link)
+
+-- ou rode localmente --
+
+## 🚀 Como Rodar o Projeto
 1. Clone este repositório:
    ```sh
    git clone https://github.com/kaiqueGeraldo/uber.git
