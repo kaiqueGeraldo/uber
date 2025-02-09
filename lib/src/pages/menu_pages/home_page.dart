@@ -230,7 +230,11 @@ class _HomePageState extends State<HomePage> {
                     Navigator.pushNamed(
                       context,
                       '/detalhes-corrida',
-                      arguments: dados['id'],
+                      arguments: {
+                        'idCorrida': dados['id'].toString(),
+                        'tipoUsuario': widget.tipoUsuario.toString(),
+                        'idUsuario': idUsuario.toString(),
+                      },
                     );
                   },
                   child: Card(
